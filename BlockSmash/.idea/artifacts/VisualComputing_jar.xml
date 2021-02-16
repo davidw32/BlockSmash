@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VisualComputing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VisualComputing_jar</output-path>
+    <root id="archive" name="VisualComputing.jar">
+      <element id="module-output" name="VisualComputing" />
+      <element id="extracted-dir" path="C:/Program Files/Java/opencv/build/java/opencv-411.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jogl/jogamp-all-platforms/jar/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jogl/jogamp-all-platforms/jar/jogl-all.jar" path-in-jar="/" />
+      <element id="library" level="application" name="opencv-411" />
+      <element id="library" level="application" name="gluegen-rt" />
+    </root>
+  </artifact>
+</component>
